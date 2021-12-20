@@ -1,4 +1,4 @@
-# Jenkins-nginx
+# jenkins-nginx
 
 Deploy nginx with jenkins using docker-compose <br>
 Step by step:
